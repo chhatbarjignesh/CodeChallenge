@@ -1,13 +1,6 @@
-# CodeChallenge
-Code Challange
+# SampleFramework
+Sample Framework
 
-## Pre Requisit
-
-```bash
-
-Install Ruby 2.4 and above
-
-```
 
 ## Installation
 

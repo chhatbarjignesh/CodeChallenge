@@ -6,7 +6,7 @@ Sample Framework
 
 ```bash
 
-git clone https://github.com/chhatbarjignesh/CodeChallenge.git
+git clone https://github.com/chhatbarjignesh/SampleFramework.git
 
 ```
 
